@@ -88,7 +88,7 @@
          &kp Q             &kp W               &kp F           &kp P               &kp G        &kp J    &kp L                &kp U            &kp Y                &kp SEMI
          &mt LEFT_SHIFT A  &mt LEFT_CONTROL R  &mt LEFT_ALT S  &mt LEFT_COMMAND T  &kp D        &kp H    &mt RIGHT_COMMAND N  &mt RIGHT_ALT E  &mt RIGHT_CONTROL I  &mt RIGHT_SHIFT O
 &kp TAB  &kp Z             &kp X               &kp C           &kp V               &kp B        &kp K    &kp M                &kp COMMA        &kp DOT              &kp FSLH           &kp BSLH
-                                               &kp DEL         &lt NAV TAB         &kp SPACE    &kp RET  &lt SYM ESC          &kp BSPC
+                                               &kp ESCAPE      &lt NAV TAB         &kp SPACE    &kp RET  &lt SYM ESC          &kp BSPC
             >;
         };
 
